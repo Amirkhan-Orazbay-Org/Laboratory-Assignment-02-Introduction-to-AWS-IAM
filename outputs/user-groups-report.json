@@ -1,0 +1,38 @@
+{
+  "report_metadata": {
+    "task": "Task 1: Explore IAM",
+    "generated_at": "placeholder",
+    "generated_by": "IAM Lab Automation Script",
+    "aws_account": "REDACTED"
+  },
+  "summary": {
+    "total_users": 0,
+    "total_groups": 0,
+    "total_roles": 0,
+    "aws_managed_policies": 0,
+    "customer_managed_policies": 0
+  },
+  "iam_users": {
+    "count": 0,
+    "users": [],
+    "user_assignments": []
+  },
+  "iam_groups": {
+    "count": 0,
+    "groups": []
+  },
+  "iam_roles": {
+    "count": 0,
+    "roles": []
+  },
+  "iam_policies": {
+    "aws_managed_policies": {
+      "count": 0,
+      "policies": []
+    },
+    "customer_managed_policies": {
+      "count": 0,
+      "policies": []
+    }
+  }
+}
